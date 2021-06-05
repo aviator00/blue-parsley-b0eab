@@ -6,9 +6,8 @@ sections:
     image: images/11_thumb.jpg
     image_alt: App preview
     title: Ho modificato questo titolo
-    content: >-
-      Azimuth is the perfect theme for developers, designers and entrepreneurs
-      who need a sleek, modern SaaS site.
+    content: |
+      Devo o no imparare ad usare questo tool?
     actions:
       - label: Learn More
         url: /features
