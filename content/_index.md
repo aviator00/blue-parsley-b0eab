@@ -7,7 +7,7 @@ sections:
     image_alt: App preview
     title: Ho modificato questo titolo
     content: |
-      Devo 
+      Devo mettermi a dieta
     actions:
       - label: LEARN MORE!
         url: /features
@@ -17,8 +17,8 @@ sections:
     background: gray
     title: Features
     subtitle: >-
-      Marco Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
-      quis lorem malesuada luctus.
+      Marco Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a
+      metus quis lorem malesuada luctus.
     features:
       - title: The Best Feature of Your Services
         image: images/feature1.png
