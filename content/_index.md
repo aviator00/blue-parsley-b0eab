@@ -7,9 +7,9 @@ sections:
     image_alt: App preview
     title: Ho modificato questo titolo
     content: |
-      Devo o no imparare ad usare questo tool?
+      Devo 
     actions:
-      - label: Learn More
+      - label: LEARN MORE!
         url: /features
         style: primary
   - section_id: features
