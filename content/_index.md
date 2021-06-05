@@ -17,7 +17,7 @@ sections:
     background: gray
     title: Features
     subtitle: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
+      Marco Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
       quis lorem malesuada luctus.
     features:
       - title: The Best Feature of Your Services
