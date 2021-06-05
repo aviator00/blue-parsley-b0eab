@@ -9,7 +9,7 @@ sections:
     content: |
       Devo o no imparare ad usare questo tool?
     actions:
-      - label: Learn More
+      - label: LEARN MORE!
         url: /features
         style: primary
   - section_id: features
