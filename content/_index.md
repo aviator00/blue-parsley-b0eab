@@ -38,10 +38,11 @@ sections:
       - title: Progettazione ARM
         image: images/arm.jpg
         image_alt: App users welcoming a new member
-        content: >-
-          Etiam vel urna sed massa egestas vulputate eu a velit. Sed ut nisl nec
-          sapien interdum luctus. Cras rhoncus condimentum metus sit amet
-          auctor.
+        content: >+
+          Ottimo compromesso tra prestazioni, costi e consumo di potenza, per
+          questo ci dedichiamo alla progettazione e lo sviluppo su processori
+          ARM.
+
         actions:
           - label: Learn More
             url: /features
