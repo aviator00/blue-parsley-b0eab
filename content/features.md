@@ -27,17 +27,14 @@ sections:
         style: secondary
   - section_id: lorem-ipsum
     title: Disegno di circuito stampati
-    content: >-
-      ## Lorem ipsum
+    content: >+
+      creazione dello schema elettrico, simulazione mixed-signal, realizzazione
+      del PCB, verifica dell'impedenza delle piste single ended e differenziali,
+      controllo dell'integrità dei segnali tramite modello IBIS e simulazione
+      dei crosstalk e delle riflessioni, verifica in 3D degli ingombri e
+      confronto degli spazi della meccanica, generazione della documentazione in
+      PDF, della BOM e del file Gerber.
 
-
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-      - Lorem ipsum
-
-      - dolor sit amet
     image_alt: lorem-ipsum
     background: gray
     actions: []
