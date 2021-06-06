@@ -1286,6 +1286,7 @@ textarea {
 
 .block.bg-accent {
   background: #0072ff;
+  background-image:src 
   background: -webkit-gradient(linear, left top, right top, from(#0072ff), to(#00c6ff));
   background: linear-gradient(to right, #0072ff, #00c6ff);
   color: #fff; }
