@@ -3,7 +3,7 @@ title: Home
 sections:
   - section_id: hero
     type: section_hero
-    image: images/nubelson-fernandes-jKL2PvKN8Q0-unsplash.jpg
+    image: images/cieli_nuvole.jpg
     image_alt: App preview
     title: Il nostro obbiettivo è l'innovazione! (cagata)
     content: >+
