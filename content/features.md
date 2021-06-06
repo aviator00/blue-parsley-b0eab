@@ -26,7 +26,7 @@ sections:
         url: '#'
         style: secondary
   - section_id: lorem-ipsum
-    title: lorem-ipsum
+    title: Disegno di circuito stampati
     content: >-
       ## Lorem ipsum
 
