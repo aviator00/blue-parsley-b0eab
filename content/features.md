@@ -6,7 +6,7 @@ sections:
     background: gray
     image: images/feature1.png
     image_alt: App preview on a phone and tablet
-    title: 1 Kg alla settimana è sufficiente
+    title: Progettazione elettronica
     content: >
       disegno dello schema elettrico della circuiteria di alimentazione, di
       potenza, di elaborazione analogica dei segnali e di acquisizione
