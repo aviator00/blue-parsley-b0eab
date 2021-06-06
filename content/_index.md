@@ -23,10 +23,11 @@ sections:
       - title: Progettazione FPGA
         image: images/feature1.png
         image_alt: App preview on a phone and tablet
-        content: >-
-          Nam pulvinar ante eu ultricies volutpat. Aenean hendrerit, eros sed
-          aliquet luctus, lorem risus volutpat dolor, nec dignissim diam neque
-          consequat ex.
+        content: >+
+          Uno dei core business aziendali è la progettazione di FPGA,
+          utilizziamo strumenti per lo sviluppo e la verifica di sistemi
+          embedded su FPGA.
+
         actions:
           - label: Learn More
             url: /features
