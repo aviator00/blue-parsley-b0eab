@@ -12,7 +12,7 @@ sections:
       di firmware.
 
     actions:
-      - label: LEARN MORE!
+      - label: LEGGI TUTTO
         url: /features
         style: primary
   - section_id: features
