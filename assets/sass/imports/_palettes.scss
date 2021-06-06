@@ -43,7 +43,6 @@
       background: $color-primary;
       background: -webkit-gradient(linear, left top, right top, from($color-primary), to($color-secondary));
       background: linear-gradient(to right,$color-primary, $color-secondary);
-      background-image: url('/images/cieli_nuvole.jpg');
 
       .button {
         color: $color-primary;
