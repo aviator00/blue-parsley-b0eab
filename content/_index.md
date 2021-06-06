@@ -97,6 +97,7 @@ sections:
         no_follow: false
         type: action
     type: section_content
+    image: images/facciate.jpg
   - section_id: reviews
     type: section_reviews
     background: white
