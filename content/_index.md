@@ -21,7 +21,7 @@ sections:
       metus quis lorem malesuada luctus.
     features:
       - title: Progettazione FPGA
-        image: images/feature1.png
+        image: images/fpga.jpg
         image_alt: App preview on a phone and tablet
         content: >+
           Uno dei core business aziendali è la progettazione di FPGA,
