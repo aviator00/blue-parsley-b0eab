@@ -5,7 +5,7 @@ sections:
     type: section_hero
     image: images/nubelson-fernandes-jKL2PvKN8Q0-unsplash.jpg
     image_alt: App preview
-    title: Il nostro obbiettivo è l'innovazione!
+    title: Il nostro obbiettivo è l'innovazione! (cagata)
     content: >+
       Progettazione e prototipazione elettronica, studi di fattibilità,
       fornitura di schede elettroniche, disegno di circuiti stampati e sviluppo
