@@ -53,10 +53,10 @@ sections:
       - title: Mission
         image: images/mission.jpg
         image_alt: App user profile preview
-        content: >-
-          In ante enim, lobortis quis congue vel, finibus sit amet mi. Aenean
-          quis venenatis sem. Proin eget massa id metus eleifend maximus sit
-          amet nec urna.
+        content: >+
+          E4i è una realtà aziendale la cui ambizione è quella di offrire
+          soluzioni basate sull'innovazione tramite l'elettronica.
+
         actions:
           - label: Learn More
             url: /features
