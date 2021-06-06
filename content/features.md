@@ -7,9 +7,9 @@ sections:
     image: images/feature1.png
     image_alt: App preview on a phone and tablet
     title: 1 Kg alla settimana è sufficiente
-    content: >+
+    content: >
       disegno dello schema elettrico della circuiteria di alimentazione, di
-      potenza, di elaborazione analogica dei segnali e di acquisizion
+      potenza, di elaborazione analogica dei segnali e di acquisizione
       analogica/digitale, elaborazione su DSP,
       [FPGA](http://www.e4i.it/tecnologie/progettazione-fpga.php), 
       [ARM](http://www.e4i.it/tecnologie/progettazione-arm.php), progettazione e
@@ -18,7 +18,6 @@ sections:
       [FPGA](http://www.e4i.it/tecnologie/progettazione-fpga.php) in genere,
       ottimizzazione numerica dell'elaborazione digitale, costruzione del
       firmware e disegno su PCB della scheda finale.
-
     actions:
       - label: Free Trial
         url: /signup
