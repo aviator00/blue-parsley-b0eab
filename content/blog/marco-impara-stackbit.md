@@ -1,6 +1,6 @@
 ---
 title: Marco scopre Stackbit
-subtitle: 'Apparently, there are 5 Service Skills that Every Employee Needs'
+subtitle: 'Speriamo gli serva a qualcosa'
 author: data/authors/john-doe.json
 excerpt: >-
   Sed nec metus dignissim quam finibus aliquet. Cras luctus, nibh id consequat
