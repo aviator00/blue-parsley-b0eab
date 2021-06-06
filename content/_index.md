@@ -6,8 +6,11 @@ sections:
     image: images/nubelson-fernandes-jKL2PvKN8Q0-unsplash.jpg
     image_alt: App preview
     title: Ho modificato questo titolo
-    content: |
-      Devo mettermi a dieta
+    content: >+
+      Progettazione e prototipazione elettronica, studi di fattibilità,
+      fornitura di schede elettroniche, disegno di circuiti stampati e sviluppo
+      di firmware.
+
     actions:
       - label: LEARN MORE!
         url: /features
